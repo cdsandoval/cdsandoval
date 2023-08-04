@@ -12,7 +12,7 @@
 </br>
 </br>
 
-Hi, I'm Carlos Sandoval, a Full Stack Developer 🚀 from Peru, currently, I'm working as a Full Stack Developer 👨🏽‍💼 [@Rankmi](https://www.rankmi.com/). Beside's programming, I enjoy watch movies and traveling.
+Hi, I'm Carlos Sandoval, a Frontend Developer 🚀 from Perú.
 
 
 **Languages and Tools:**  
